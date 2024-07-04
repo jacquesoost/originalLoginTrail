@@ -1,9 +1,9 @@
 import 'package:flutter/material.dart';
-import 'package:login_trail1/firebase_options.dart';
+import 'package:login_trail1/features/authentication/screens/login/widgets/firebase_options.dart';
 //import 'firebase_options.dart';
-import 'package:get/get.dart';
+//import 'package:get/get.dart';
 import 'app.dart';
-import 'package:firebase_dart/firebase_dart.dart';
+//import 'package:firebase_dart/firebase_dart.dart';
 import 'package:firebase_core/firebase_core.dart' as core_firebase;
 
 
